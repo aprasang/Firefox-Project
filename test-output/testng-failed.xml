@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testng_Suite1]">
+  <test name="Test1(failed)">
+    <classes>
+      <class name="testNG.Alert_Popup">
+        <methods>
+          <include name="Alert"/>
+        </methods>
+      </class> <!-- testNG.Alert_Popup -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Testng_Suite1] -->
