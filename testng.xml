@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testng_Suite1">
+  <test name="Test1">
+    <classes>
+      <class name="testNG.Google_Title"/>
+      <class name="testNG.Actitime_Placeholder"/>
+      <class name="testNG.Java_Class"/>
+      <class name="testNG.Irctc_windowHandle"/>
+      <class name="testNG.Alert_Popup"/>
+      <class name="testNG.FlipKart_Popup"/>
+      <class name="testNG.Sample_Hashset"/>
+      <class name="testNG.Sample"/>
+      <class name="testNG.Yatra_calendarPopup"/>
+    </classes>
+  </test> <!-- Test1 -->
+</suite> <!-- Testng_Suite1 -->
